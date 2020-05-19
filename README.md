@@ -2,7 +2,7 @@
 
 The files in this project are used in a short course on applied regular expressions, which you can find here:
 
-[https://krisjordan.com/learn-how-to-write-regular-expressions]
+https://krisjordan.com/learn-how-to-write-regular-expressions
 
 The sample files include:
 
