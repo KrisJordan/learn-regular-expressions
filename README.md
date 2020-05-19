@@ -1,8 +1,8 @@
 # Learn Regular Expressions
 
-The files in this project are used in the regular expression tutorials I teach, which you can find here:
+The files in this project are used in a short course on applied regular expressions, which you can find here:
 
-[INSERT PLAYLIST URL VIDEO 0]
+[https://krisjordan.com/learn-how-to-write-regular-expressions]
 
 The sample files include:
 
